@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Learn_playwright_with_typescript
 
 ## Install
@@ -20,3 +21,4 @@ Add VS code extension
 
 - npx playwright test --project webkit/firefoix/chromium
 - npx playwright test --project webkit --project firefox
+
